@@ -1,0 +1,116 @@
+<!DOCTYPE html><html lang="es-CL"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Videojuegos de Todos los Tiempos · Consolas, Juegos y Accesorios</title>
+<meta name="description" content="Vitrina virtual de videojuegos de todos los tiempos: consolas, juegos, accesorios y merch. Tasacion en Chile (CLP) segun estado.">
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0b1020;--paper:#161b2e;--ink:#e8ecff;--bur:#ff3d7f;--grn:#39ff88;--gold:#ffd23f;--mut:#8b93b8}
+*{box-sizing:border-box}body{margin:0;background:var(--bg) radial-gradient(#1c2750 1.6px,transparent 1.6px) 0 0/22px 22px;color:var(--ink);font-family:Nunito,sans-serif}
+header{background:linear-gradient(135deg,#141a3a,#3b0a5c 50%,#0a3d4d);color:#fff;padding:38px 20px 26px;text-align:center;border-bottom:6px dashed var(--grn)}
+h1{font-family:Fredoka,sans-serif;font-size:2.4em;margin:0;letter-spacing:.5px;text-shadow:0 0 18px rgba(57,255,136,.35)}header p{margin:6px 0 0;font-style:italic;color:#c8ffd9}
+.wa{display:inline-flex;gap:6px;align-items:center;margin-top:14px;background:#25d366;color:#fff;text-decoration:none;padding:8px 16px;border-radius:22px;font-family:Fredoka;font-weight:600}
+.stats{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-top:20px}.stat{border:1px solid var(--gold);padding:10px 18px;border-radius:4px;background:rgba(255,255,255,.06)}
+.stat b{display:block;font-family:Fredoka;font-size:1.4em;color:#fff}.stat span{font-size:.8em;text-transform:uppercase;letter-spacing:1px}
+.filters{max-width:1200px;margin:20px auto;padding:16px;background:var(--paper);border:3px solid #2a3a6a;border-radius:6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:10px}
+.filters label{font-size:.75em;text-transform:uppercase;letter-spacing:1px;color:var(--grn);font-weight:600}
+select,input{width:100%;padding:7px;border:2px solid #2a3a6a;background:#0e1428;font-family:Nunito;border-radius:3px;color:var(--ink)}
+#count{max-width:1200px;margin:0 auto;padding:0 16px;color:var(--mut);font-style:italic}
+.grid{max-width:1200px;margin:10px auto 40px;padding:0 16px;display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:22px}
+.card{background:var(--paper);border-radius:18px;box-shadow:6px 6px 0 #39ff88;border:3px solid var(--ink);cursor:pointer;overflow:hidden;transition:transform .15s}
+.card:hover{transform:translateY(-4px) rotate(-.4deg)}.card img{width:100%;aspect-ratio:1/1;object-fit:contain;background:#0e1428;display:block}
+.noimg{aspect-ratio:1/1;display:flex;align-items:center;justify-content:center;background:#10203a;color:var(--grn);font-family:Fredoka;font-size:3em}
+.cb{padding:12px}.cb .t{font-family:Fredoka;font-weight:800;font-size:1.05em;line-height:1.2}.cb .a{color:var(--mut);font-size:.85em;font-style:italic;margin:3px 0 8px}
+.tag{display:inline-block;font-size:.7em;padding:2px 7px;border-radius:10px;background:var(--grn);color:#0b1020;margin:0 3px 3px 0}.tag.r{background:var(--gold);color:#0b1020}.tag.p{background:#3b7dff;color:#fff}
+.price{margin-top:8px;color:var(--bur);font-weight:600}.empty{grid-column:1/-1;text-align:center;padding:70px 20px;font-family:Fredoka;font-size:1.6em;color:var(--grn)}
+.modal{position:fixed;inset:0;background:rgba(8,10,24,.82);display:none;align-items:center;justify-content:center;padding:16px;z-index:9}.modal.on{display:flex}
+.box{background:var(--paper);max-width:900px;width:100%;max-height:92vh;overflow:auto;border-radius:6px;border-top:8px solid var(--bur);padding:22px;position:relative}
+.box h2{font-family:Fredoka;margin:0 0 4px;color:var(--bur)}.x{position:absolute;right:14px;top:8px;font-size:1.8em;cursor:pointer;color:var(--grn)}
+.ph{display:flex;gap:8px;overflow-x:auto;margin:12px 0}.ph img{height:280px;border-radius:4px;border:3px solid #2a3a6a;background:#0e1428}
+table{width:100%;border-collapse:collapse;font-size:.92em}td{padding:6px;border-bottom:1px dashed #2a3a6a;vertical-align:top}td:first-child{color:var(--grn);font-weight:600;width:38%}
+footer{text-align:center;padding:20px;color:var(--mut);font-size:.85em;border-top:1px solid #2a3a6a}
+</style></head><body>
+<header><h1>🎮 Videojuegos de Todos los Tiempos</h1><p>Consolas, juegos, accesorios y merch de todas las épocas · tasación según estado en Chile</p>
+<a class="wa" href="https://wa.me/56956592453?text=Hola!%20Vi%20tu%20vitrina%20de%20videojuegos%20y%20quiero%20consultar" target="_blank" rel="noopener">💬 Consultar por WhatsApp</a>
+<div class="stats"><div class="stat"><b>0</b><span>Fichas</span></div><div class="stat"><b>0</b><span>Unidades</span></div><div class="stat"><b>—</b><span>Valor total Chile (CLP)</span></div></div></header>
+<div class="filters">
+<div><label>Buscar</label><input id="q" placeholder="Título, plataforma, marca…"></div>
+<div><label>Tipo</label><select id="f_tipo"></select></div>
+<div><label>Plataforma</label><select id="f_plat"></select></div>
+<div><label>Marca / fabricante</label><select id="f_marca"></select></div>
+<div><label>Año</label><select id="f_anio"></select></div>
+<div><label>Época</label><select id="f_ep"></select></div>
+<div><label>Estado</label><select id="f_estado"></select></div>
+<div><label>Rareza</label><select id="f_rareza"></select></div>
+<div><label>Precio mín. (CLP)</label><input id="pmin" type="number" min="0"></div>
+<div><label>Precio máx. (CLP)</label><input id="pmax" type="number" min="0"></div>
+<div><label>Ordenar</label><select id="ord"><option value="d">Más caros primero</option><option value="a">Más baratos primero</option><option value="yo">Más antiguos</option><option value="yn">Más recientes</option><option value="t">Nombre A–Z</option></select></div>
+</div><div id="count"></div><div class="grid" id="g"></div>
+<div class="modal" id="m"><div class="box" id="mb"></div></div>
+<footer>Valores referenciales: internacional (eBay, PriceCharting, Mercado Libre) · Chile (MercadoLibre, coleccionistas). Precio según estado · dólar según cada ficha. Las fotos se publican tal cual se suben, sin recortes ni retoques.</footer>
+<script>
+const D=[],WA="https://wa.me/56956592453?text=Hola!%20Vi%20tu%20vitrina%20de%20videojuegos%20y%20quiero%20consultar",TIPOS=["Consola", "Juego", "Accesorio", "Merch"],PLATS=["Atari", "NES", "SNES", "Nintendo 64", "GameCube", "Wii", "Wii U", "Nintendo Switch", "PlayStation", "PlayStation 2", "PlayStation 3", "PlayStation 4", "PlayStation 5", "Xbox", "Xbox 360", "Xbox One", "Xbox Series", "Sega Master System", "Sega Mega Drive / Genesis", "Sega Saturn", "Sega Dreamcast", "PC", "Game Boy", "Game Boy Color", "Game Boy Advance", "Nintendo DS", "Nintendo 3DS", "PSP", "PS Vita", "Otras"];
+const $=i=>document.getElementById(i);const e=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const est=p=>{const s=p.estado;return typeof s==='object'&&s?(s.escala||''):String(s||'').split(/[(·,-]/)[0].trim()};
+const F={f_tipo:p=>p.tipo,f_plat:p=>p.plataforma,f_marca:p=>p.marca,f_anio:p=>p.y?String(p.y):'',f_ep:p=>p.ep,f_estado:est,f_rareza:p=>p.rareza};
+const PRE={f_tipo:TIPOS,f_plat:PLATS};
+for(const[id,fn]of Object.entries(F)){const fromD=[...new Set(D.map(fn).filter(Boolean))];const v=[...new Set([...(PRE[id]||[]),...fromD])].sort((a,b)=>String(a).localeCompare(String(b),'es'));$(id).innerHTML='<option value="">Todos</option>'+v.map(x=>`<option>${e(x)}</option>`).join('');$(id).onchange=r}
+['q','pmin','pmax','ord'].forEach(i=>$(i).oninput=r);
+const estTxt=p=>{const s=p.estado;return typeof s==='object'&&s?`${s.escala||''}${s.nota?' · '+s.nota+'/10':''}${s.detalle?' — '+s.detalle:''}`:(s||'')};
+const precio=p=>p.venta_chile_clp||'Precio a convenir';
+const inPrice=(p,a,b)=>{if(p.pmin==null||p.pmax==null)return !a&&b>=1e15;return p.pmax>=a&&p.pmin<=b};
+function r(){const q=$('q').value.toLowerCase(),a=+$('pmin').value||0,b=+$('pmax').value||1e15;
+let L=D.filter(p=>Object.entries(F).every(([id,fn])=>!$(id).value||fn(p)==$(id).value)&&inPrice(p,a,b)&&(!q||JSON.stringify(p).toLowerCase().includes(q)));
+const o=$('ord').value;L.sort((x,y)=>{const xn=x.pmin==null?1:0,yn=y.pmin==null?1:0;if(xn!==yn)return xn-yn;return o=='a'?(x.pmin||0)-(y.pmin||0):o=='yo'?(x.y||9999)-(y.y||9999):o=='yn'?(y.y||0)-(x.y||0):o=='t'?String(x.titulo).localeCompare(y.titulo,'es'):(y.pmax||0)-(x.pmax||0)||(y.pmin||0)-(x.pmin||0)});
+$('count').textContent=D.length?`${L.length} de ${D.length} piezas`:'Catálogo listo · todavía no hay fichas publicadas';
+$('g').innerHTML=!D.length?'<div class="empty">🎮 Pronto nuevos videojuegos, consolas y accesorios</div>':!L.length?'<div class="empty">Sin resultados para estos filtros</div>':L.map(p=>`<div class="card" data-id="${e(p.id)}" onclick="sh('${p.id}')">${(p.imgs&&p.imgs.length)?`<img loading="lazy" src="${p.imgs[0]}" alt="">`:`<div class="noimg">🎮</div>`}<div class="cb"><div class="t">${e(p.titulo)}</div><div class="a">${e(p.plataforma||p.marca||'')}${p.anio?' · '+e(p.anio):''}</div>${p.tipo?`<span class="tag">${e(p.tipo)}</span>`:''}${p.plataforma?`<span class="tag p">${e(p.plataforma)}</span>`:''}${est(p)?`<span class="tag">${e(est(p))}</span>`:''}${p.rareza?`<span class="tag r">${e(p.rareza)}</span>`:''}<div class="price">${e(precio(p))}${/a convenir/i.test(precio(p))?'':' CLP'}</div></div></div>`).join('')}
+}
+const LB={id:'Código',tipo:'Tipo',titulo:'Nombre',plataforma:'Plataforma',marca:'Marca / fabricante',linea:'Línea / serie',modelo:'Modelo',region:'Región',formato:'Formato',anio:'Año',epoca:'Época',empaque:'Empaque / completitud',fabricacion:'Fabricación',serial:'Serie / inscripciones',estado:'Estado',rareza:'Rareza',valor_internacional_usd:'Valor internacional (USD)',valor_internacional_clp:'Valor internacional (CLP)',venta_chile_clp:'Venta sugerida en Chile (CLP)',stock:'Unidades',notas:'Notas',dolar:'Dólar usado',fecha:'Fecha de registro'};
+function sh(id){const p=D.find(x=>x.id==id);$('mb').innerHTML=`<span class="x" onclick="$('m').classList.remove('on')">×</span><h2>${e(p.titulo)}</h2><i>${e([p.tipo,p.plataforma,p.marca].filter(Boolean).join(' · '))}${p.anio?' · '+e(p.anio):''}</i><div class="ph">${(p.imgs||[]).map(i=>`<a href="${i}" target="_blank"><img src="${i}" alt=""></a>`).join('')}</div><table>${Object.entries(LB).filter(([k])=>p[k]!=null&&p[k]!=='').map(([k,l])=>`<tr><td>${l}</td><td>${e(k=='estado'?estTxt(p):p[k])}</td></tr>`).join('')}</table><p><a class="wa" href="${WA}%20por%20${encodeURIComponent(p.id+' '+p.titulo)}" target="_blank" rel="noopener">💬 Consultar por esta pieza</a></p>`;$('m').classList.add('on')}
+$('m').onclick=ev=>{if(ev.target.id=='m')$('m').classList.remove('on')};document.onkeydown=ev=>{if(ev.key=='Escape')$('m').classList.remove('on')};r();
+</script><div id="musica-credito" style="text-align:center;font-size:11px;opacity:.6;padding:8px 8px 70px">Música: "Video Dungeon Boss" de Kevin MacLeod (<a href="https://incompetech.com" style="color:inherit">incompetech.com</a>), licencia <a href="https://creativecommons.org/licenses/by/4.0/" style="color:inherit">CC BY 4.0</a></div>
+<audio id="bgm" src="audio/musica.mp3" loop preload="auto"></audio>
+<button id="bgm-btn" aria-label="Música" title="Música" style="position:fixed;left:16px;bottom:16px;z-index:9999;width:44px;height:44px;border-radius:50%;border:2px solid #39ff88;background:#141a3a;color:#39ff88;font-size:20px;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.4);opacity:.9">🔇</button>
+<script>(function(){var a=document.getElementById('bgm'),b=document.getElementById('bgm-btn'),K='vitrina_musica_pausada';a.volume=0.35;
+function ui(){b.textContent=a.paused?'🔇':'🔊';}
+function go(){return a.play().then(ui).catch(function(){ui();});}
+function first(e){if(e&&e.target===b)return;rm();if(localStorage.getItem(K)!=='1'&&a.paused)go();}
+function rm(){['click','touchstart','keydown'].forEach(function(t){document.removeEventListener(t,first,true);});}
+b.addEventListener('click',function(){rm();if(a.paused){localStorage.removeItem(K);go();}else{a.pause();localStorage.setItem(K,'1');ui();}});
+a.addEventListener('play',ui);a.addEventListener('pause',ui);
+if(localStorage.getItem(K)!=='1'){a.play().then(ui).catch(function(){['click','touchstart','keydown'].forEach(function(t){document.addEventListener(t,first,true);});});}
+})();</script>
+<!-- calculadora-vitrina -->
+<style>#cv-btn{position:fixed;right:16px;bottom:88px;z-index:9998;width:52px;height:52px;border-radius:50%;border:2px solid #39ff88;background:#141a3a;color:#39ff88;font-size:24px;cursor:pointer;box-shadow:0 3px 10px rgba(0,0,0,.45)}
+#cv-btn b{position:absolute;top:-6px;right:-6px;background:#e11;color:#fff;font:700 12px/20px sans-serif;min-width:20px;height:20px;border-radius:10px;padding:0 4px}
+#cv-btn.cv-f{animation:cvf .4s}@keyframes cvf{50%{transform:scale(1.25)}}
+#cv-pan{position:fixed;right:16px;bottom:150px;z-index:10000;width:min(360px,calc(100vw - 32px));max-height:65vh;overflow:auto;background:#141a3a;color:#39ff88;border:2px solid #39ff88;border-radius:14px;box-shadow:0 8px 30px rgba(0,0,0,.55);font:14px/1.35 system-ui,sans-serif;display:none;padding:10px}
+#cv-pan.cv-o{display:block}#cv-pan .cv-h{font-weight:700;font-size:16px;display:flex;justify-content:space-between;margin-bottom:6px}
+#cv-pan [data-a]{cursor:pointer;user-select:none}#cv-pan .cv-r{border-top:1px solid rgba(128,128,128,.35);padding:6px 0}
+#cv-pan .cv-n{font-weight:600;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+#cv-pan .cv-c{display:flex;align-items:center;gap:6px;margin-top:3px;flex-wrap:wrap}#cv-pan .cv-c span[data-a]{display:inline-block;min-width:22px;text-align:center;border:1px solid #39ff88;border-radius:6px}
+#cv-pan input{width:90px;background:transparent;color:inherit;border:1px solid rgba(128,128,128,.6);border-radius:6px;padding:2px 4px}#cv-pan small{opacity:.7}
+#cv-pan .cv-s{text-align:right;font-weight:600}#cv-pan .cv-t{display:flex;justify-content:space-between;border-top:2px solid #39ff88;margin-top:6px;padding-top:6px;font-size:16px}
+#cv-pan .cv-v{margin-top:8px;text-align:center;border:1px solid #39ff88;border-radius:8px;padding:4px}#cv-pan .cv-e,#cv-pan .cv-note{opacity:.75;font-size:12px;margin-top:6px}
+.cv-add{position:absolute;right:6px;bottom:6px;z-index:5;background:#141a3a;color:#39ff88;border:1px solid #39ff88;border-radius:14px;padding:3px 9px;font:600 12px/1.3 system-ui,sans-serif;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,.35)}.cv-add:hover{filter:brightness(1.2)}</style>
+<script>(function(){var C={"card": "div.card", "name": ".t", "price": ".price", "key": "videojuegos"},K='calc_vitrina_'+C.key,S=[];try{S=JSON.parse(localStorage.getItem(K))||[]}catch(e){}
+function save(){localStorage.setItem(K,JSON.stringify(S))}
+function fmt(n){return '$'+Math.round(n).toLocaleString('es-CL')}
+function parse(t){t=t||'';var i=t.lastIndexOf('Chile');if(i>=0)t=t.slice(i);var m=t.match(/\d[\d.]*(?:,\d+)?/g)||[];var v=m.map(function(x){return parseInt(x.replace(/,\d+$/,'').replace(/\./g,''),10)}).filter(function(x){return !isNaN(x)}).slice(0,2);
+ if(!v.length)return{p:0,r:false};if(v.length==2&&v[1]>v[0])return{p:Math.round((v[0]+v[1])/2),r:true};return{p:v[0],r:false}}
+function nm(c){if(C.name[0]=='@')return c.getAttribute(C.name.slice(1))||'';var e=c.querySelector(C.name);return e?e.textContent.trim():''}
+function deco(){document.querySelectorAll(C.card).forEach(function(c){if(c.querySelector('.cv-add'))return;if(getComputedStyle(c).position=='static')c.style.position='relative';var b=document.createElement('span');b.className='cv-add';b.setAttribute('role','button');b.tabIndex=0;b.textContent='➕ Agregar';c.appendChild(b)})}
+function add(c){var n=nm(c),pe=c.querySelector(C.price),pr=parse(pe?pe.textContent:'');var id=c.getAttribute('data-id')||n;var it=S.find(function(x){return x.id==id});if(it)it.q++;else S.push({id:id,n:n,p:pr.p,r:pr.r,q:1});save();draw();flash()}
+var btn=document.createElement('button'),pan=document.createElement('div');btn.id='cv-btn';btn.title='Calculadora';pan.id='cv-pan';
+function flash(){btn.classList.remove('cv-f');void btn.offsetWidth;btn.classList.add('cv-f')}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+function draw(){var q=0,t=0;S.forEach(function(x){q+=x.q;t+=x.q*x.p});btn.innerHTML='🧮'+(q?'<b>'+q+'</b>':'');
+ pan.innerHTML='<div class="cv-h">🧮 Mi cuenta<span class="cv-x" data-a="close">✕</span></div>'+(S.length?'<div class="cv-l">'+S.map(function(x,i){return '<div class="cv-r"><div class="cv-n">'+esc(x.n)+'</div><div class="cv-c">$<input type="number" min="0" step="100" value="'+x.p+'" data-i="'+i+'" class="cv-p">'+(x.r?'<small title="Punto medio del rango de precio">≈ medio</small>':'')+' <span data-a="m" data-i="'+i+'">−</span><b>'+x.q+'</b><span data-a="p" data-i="'+i+'">+</span><span data-a="d" data-i="'+i+'" title="Quitar">🗑</span></div><div class="cv-s">'+fmt(x.p*x.q)+'</div></div>'}).join('')+'</div>':'<div class="cv-e">Toca “➕ Agregar” en una ficha para sumarla.</div>')+
+ '<div class="cv-t"><span>'+q+' ítem'+(q==1?'':'s')+'</span><b>'+fmt(t)+' CLP</b></div>'+(S.length?'<div class="cv-v" data-a="clr">Vaciar</div>':'')+'<div class="cv-note">Precios de referencia; “≈ medio” = punto medio del rango.</div>'}
+document.addEventListener('click',function(e){var a=e.target.closest&&e.target.closest('.cv-add');if(a){e.preventDefault();e.stopPropagation();add(a.closest(C.card))}},true);
+document.addEventListener('keydown',function(e){var a=e.target.closest&&e.target.closest('.cv-add');if(a&&(e.key=='Enter'||e.key==' ')){e.preventDefault();e.stopPropagation();add(a.closest(C.card))}},true);
+pan.addEventListener('click',function(e){var a=e.target.getAttribute('data-a'),i=+e.target.getAttribute('data-i');if(!a)return;if(a=='close')pan.classList.remove('cv-o');if(a=='p')S[i].q++;if(a=='m'){S[i].q--;if(S[i].q<1)S.splice(i,1)}if(a=='d')S.splice(i,1);if(a=='clr'&&confirm('¿Vaciar la cuenta?'))S=[];save();draw()});
+pan.addEventListener('change',function(e){if(e.target.classList.contains('cv-p')){S[+e.target.dataset.i].p=Math.max(0,+e.target.value||0);S[+e.target.dataset.i].r=false;save();draw()}});
+btn.addEventListener('click',function(){pan.classList.toggle('cv-o')});
+function init(){document.body.appendChild(btn);document.body.appendChild(pan);draw();deco();new MutationObserver(function(){clearTimeout(init.t);init.t=setTimeout(deco,60)}).observe(document.body,{childList:true,subtree:true})}
+if(document.body)init();else document.addEventListener('DOMContentLoaded',init)})();</script>
+<!-- /calculadora-vitrina -->
+</body></html>
