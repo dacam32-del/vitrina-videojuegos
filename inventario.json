@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "VJ-001",
+    "tipo": "Juego",
+    "titulo": "LittleBigPlanet",
+    "plataforma": "PSP",
+    "marca": "Sony",
+    "linea": "Greatest Hits",
+    "region": "NTSC-U/C",
+    "formato": "UMD",
+    "anio": "2009",
+    "empaque": "Estuche original Greatest Hits (UMD no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche UMD de plástico transparente con rayones y marcas de uso leves en la tapa (zona inferior izquierda, cerca del sello ESRB, y al centro). Portada Greatest Hits completa y legible."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$15,28 – $16,91 (loose / CIB); nuevo $33,63",
+    "valor_internacional_clp": "$15.165 – $16.783 (loose / CIB); nuevo $33.377",
+    "venta_chile_clp": "$10.000 – $15.000",
+    "stock": 1,
+    "notas": "Desarrollador: Media Molecule / SCE Cambridge Studio. Edición Greatest Hits, región NTSC-U/C (ESRB E, Only On PlayStation). Foto solo del frente del estuche; el UMD no se aprecia. Sin ventas chilenas verificadas. Anunciado en Chile: Imperio Gamers (Puerto Montt) $13.990 usado (aviso vigente al 20 nov 2026). Referencia internacional PriceCharting (PSP Greatest Hits): loose US$15,28 / CIB US$16,91 / nuevo US$33,63 (= $15.165 / $16.783 / $33.377 CLP). Venta sugerida en Chile: $10.000–$15.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20/0f93a33b4831247f5c797020931cbb609bd6a71f4271d8370de7cfedb305d98e.jpg"
+    ]
+  }
+]
