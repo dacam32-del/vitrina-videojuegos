@@ -11,7 +11,7 @@ Cada ficha puede incluir fotos (publicadas tal cual se suben, sin recortes ni re
 - Botón de consulta por WhatsApp (+56 9 5659 2453), también en cada ficha.
 - Música de fondo: "Video Dungeon Boss" de Kevin MacLeod (incompetech.com), licencia CC BY 4.0.
 
-**Totales:** 1 Ficha · 1 Unidad — $10.000 – $15.000 (CLP, venta Chile). Primera ficha: VJ-001 LittleBigPlanet (PSP, Greatest Hits).
+**Totales:** 10 Fichas · 10 Unidades — $126.000 – $188.000 (CLP, venta Chile). Publicados: VJ-001 y VJ-015 a VJ-023 (VJ-002 a VJ-014 quedan reservados para un lote pendiente).
 
 ## 🛒 Vitrina web
 **[https://dacam32-del.github.io/vitrina-videojuegos/](https://dacam32-del.github.io/vitrina-videojuegos/)**

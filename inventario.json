@@ -26,5 +26,258 @@
     "fotos": [
       "/workspace/videojuegos-originales/lote-2026-11-20/0f93a33b4831247f5c797020931cbb609bd6a71f4271d8370de7cfedb305d98e.jpg"
     ]
+  },
+  {
+    "id": "VJ-015",
+    "tipo": "Juego",
+    "titulo": "Warlock",
+    "plataforma": "SNES",
+    "marca": "LJN / Trimark",
+    "region": "NTSC-U (USA)",
+    "formato": "Cartucho",
+    "anio": "1995",
+    "empaque": "Solo cartucho",
+    "fabricacion": "Made in Mexico",
+    "serial": "M-SNS-AWKE-USA",
+    "estado": {
+      "escala": "Regular",
+      "nota": 6,
+      "detalle": "Cartucho suelto. Etiqueta con desgaste, brillo, rayones y un levantamiento leve en el borde superior. Plástico del cartucho en estado aceptable, con suciedad en las ranuras."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$16,23 (loose) / $49,99 (CIB); nuevo $141,85",
+    "valor_internacional_clp": "$16.108 (loose) / $49.614 (CIB); nuevo $140.783",
+    "venta_chile_clp": "$13.000 – $20.000",
+    "stock": 1,
+    "notas": "Desarrollador: Realtime Associates. Editora: LJN (Acclaim) / Trimark. Código M-SNS-AWKE-USA, fabricado en México. Sin ventas ni avisos chilenos del título. Referencia internacional PriceCharting (SNES, NTSC): loose US$16,23 / CIB US$49,99 / nuevo US$141,85 (= $16.108 / $49.614 / $140.783 CLP, dólar $992,48). Venta sugerida en Chile para cartucho suelto con etiqueta desgastada: $13.000–$20.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/5bbd4e8418ebe3b7c5f29bbe13c3cd256f765526ea950d12e1c9bf4d38124968.jpg"
+    ]
+  },
+  {
+    "id": "VJ-016",
+    "tipo": "Juego",
+    "titulo": "Addams Family Values",
+    "plataforma": "SNES",
+    "marca": "Ocean",
+    "region": "NTSC-U (USA)",
+    "formato": "Cartucho",
+    "anio": "1995",
+    "empaque": "Solo cartucho",
+    "fabricacion": "Made in Japan",
+    "serial": "SNS-VY-USA",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Cartucho suelto. Etiqueta completa, con algo de brillo y marcas en el sector del logo Ocean. Plástico con suciedad y manchas leves, sobre todo a la izquierda de la etiqueta y en el borde de la ranura."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$24,99 (loose) / $75,00 (CIB)",
+    "valor_internacional_clp": "$24.802 (loose) / $74.436 (CIB)",
+    "venta_chile_clp": "$20.000 – $28.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Ocean Software. Código SNS-VY-USA, fabricado en Japón. Sin ventas ni avisos chilenos del título. Referencia internacional PriceCharting (SNES, NTSC): loose US$24,99 / CIB US$75,00 (= $24.802 / $74.436 CLP, dólar $992,48). Venta sugerida en Chile para cartucho suelto: $20.000–$28.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/d447fe11a9a66050b5cf25eb02eaf8168bd841fb1993c87252a99fb9471d1db3.jpg"
+    ]
+  },
+  {
+    "id": "VJ-017",
+    "tipo": "Juego",
+    "titulo": "Kirby's Return to Dream Land",
+    "plataforma": "Wii",
+    "marca": "Nintendo",
+    "region": "NTSC (ESRB EN/FR)",
+    "formato": "Disco óptico (Wii)",
+    "anio": "2011",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche con desgaste visible en las esquinas (blancas/raspadas, sobre todo arriba) y algunas marcas en la portada. Arte de portada completo y legible. El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$22,71 (loose) / $24,50 (CIB); nuevo $46,18",
+    "valor_internacional_clp": "$22.539 (loose) / $24.316 (CIB); nuevo $45.833",
+    "venta_chile_clp": "$20.000 – $28.000",
+    "stock": 1,
+    "notas": "Desarrollador: HAL Laboratory. Editora: Nintendo. Edición NTSC con sello ESRB bilingüe inglés/francés (E10+). Sin ventas ni avisos chilenos del título (los avisos locales encontrados son del remake de Switch). Referencia internacional PriceCharting (Wii, NTSC): loose US$22,71 / CIB US$24,50 / nuevo US$46,18 (= $22.539 / $24.316 / $45.833 CLP, dólar $992,48). Venta sugerida en Chile para copia con estuche (esquinas desgastadas): $20.000–$28.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/121840902f56fdf4bee81fbedf0e2861a916351c409418d01232630591649d44.jpg"
+    ]
+  },
+  {
+    "id": "VJ-018",
+    "tipo": "Juego",
+    "titulo": "X-Men Origins: Wolverine",
+    "plataforma": "Wii",
+    "marca": "Activision",
+    "linea": "Edición estándar (no Uncaged)",
+    "region": "NTSC (ESRB T)",
+    "formato": "Disco óptico (Wii)",
+    "anio": "2009",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Regular",
+      "nota": 6,
+      "detalle": "Estuche con esquinas bastante desgastadas (blancas), rayones en el plástico y marcas en la portada. Es la edición estándar para Wii (clasificación Teen); en la portada no aparece la leyenda Uncaged Edition (esa versión M es de PS3/Xbox 360/PC)."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,89 (loose) / $9,49 (CIB); nuevo $16,99",
+    "valor_internacional_clp": "$6.838 (loose) / $9.419 (CIB); nuevo $16.862",
+    "venta_chile_clp": "$7.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador (Wii): Amaze Entertainment. Editora: Activision. Lanzamiento: 1 may 2009. Portada estándar con Hugh Jackman; no es Uncaged Edition. Sin avisos chilenos verificables (un listado de Gameplanet a $80 corresponde a México, no a Chile). Referencia internacional PriceCharting (Wii): loose US$6,89 / CIB US$9,49 / nuevo US$16,99 (= $6.838 / $9.419 / $16.862 CLP, dólar $992,48). Venta sugerida en Chile para estuche con desgaste: $7.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/5a0907cf460316b6cba9ebb6328cb83de55178c79a0df1b6cdae5f276d8a1b36.jpg"
+    ]
+  },
+  {
+    "id": "VJ-019",
+    "tipo": "Juego",
+    "titulo": "RoadBlasters",
+    "plataforma": "NES",
+    "marca": "Mindscape",
+    "region": "NTSC-U (USA)",
+    "formato": "Cartucho",
+    "anio": "1990",
+    "empaque": "Solo cartucho",
+    "fabricacion": "Made in Japan",
+    "serial": "NES-VE-USA",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 8,
+      "detalle": "Cartucho suelto. Etiqueta bastante limpia y legible, con desgaste mínimo. Plástico del cartucho en buen estado. Código NES-VE-USA, Made in Japan."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$7,50 (loose) / $31,00 (CIB)",
+    "valor_internacional_clp": "$7.444 (loose) / $30.767 (CIB)",
+    "venta_chile_clp": "$8.000 – $14.000",
+    "stock": 1,
+    "notas": "Arcade original de Atari Games (1987); port NES de Beam Software, publicado por Mindscape en 1990. Código NES-VE-USA, fabricado en Japón. Sin ventas ni avisos chilenos del título. Referencia internacional PriceCharting (NES): loose US$7,50 / CIB US$31,00 (= $7.444 / $30.767 CLP, dólar $992,48). Venta sugerida en Chile para cartucho suelto en buen estado: $8.000–$14.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/7691ddc05e5ccf5049028fa9b51e958ce1277368cb0842e53f12ab8720fa0666.jpg"
+    ]
+  },
+  {
+    "id": "VJ-020",
+    "tipo": "Juego",
+    "titulo": "Super C",
+    "plataforma": "NES",
+    "marca": "Konami",
+    "region": "NTSC-U (USA)",
+    "formato": "Cartucho",
+    "anio": "1990",
+    "empaque": "Cartucho con funda guardapolvo oficial Nintendo (sin caja ni manual)",
+    "fabricacion": "Made in Japan",
+    "serial": "NES-UE-USA",
+    "estado": {
+      "escala": "Muy bueno",
+      "nota": 8,
+      "detalle": "Cartucho con funda guardapolvo negra oficial de Nintendo (logo rojo). Etiqueta en muy buen estado, con el logo holográfico Super C bien conservado y legible. Código NES-UE-USA, Made in Japan."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$21,30 (loose) / $79,99 (CIB)",
+    "valor_internacional_clp": "$21.140 (loose) / $79.388 (CIB)",
+    "venta_chile_clp": "$20.000 – $28.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Konami (secuela de Contra, 1990). Código NES-UE-USA, fabricado en Japón. Incluye funda guardapolvo oficial Nintendo, no caja ni manual (no es CIB). Sin ventas ni avisos chilenos del título. Referencia internacional PriceCharting (NES): loose US$21,30 / CIB US$79,99 (= $21.140 / $79.388 CLP, dólar $992,48). En eBay, copias loose con funda se vendieron cerca de US$21–$24. Venta sugerida en Chile: $20.000–$28.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/4e25f560b7e9425098f3d17e2868e602b043f16292b93dd59bc97f2da8833ada.jpg"
+    ]
+  },
+  {
+    "id": "VJ-021",
+    "tipo": "Juego",
+    "titulo": "Resident Evil 6",
+    "plataforma": "PlayStation 3",
+    "marca": "Capcom",
+    "region": "NTSC (ESRB M)",
+    "formato": "Blu-ray",
+    "anio": "2012",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche con rayones y marcas de uso en el plástico transparente, visibles sobre la portada. Arte legible. El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$8,09 (loose) / $9,31 (CIB); nuevo $24,98",
+    "valor_internacional_clp": "$8.029 (loose) / $9.240 (CIB); nuevo $24.792",
+    "venta_chile_clp": "$8.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Capcom. Lanzamiento: 2 oct 2012. Sin ventas chilenas verificadas. Anuncios Chile: Yapo Concepción $10.000 c/u (RE6 junto a otros PS3); Yapo La Florida juegos PS3 a $10.000 (incluye RE6); Retrobusters $10.394 (reacondicionado, excelente). Referencia internacional PriceCharting (PS3): loose US$8,09 / CIB US$9,31 / nuevo US$24,98 (= $8.029 / $9.240 / $24.792 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/6303a13e34dba5e203cbad1d4a351c2ebb91e507c0b942f8916ae4f709e47683.jpg"
+    ]
+  },
+  {
+    "id": "VJ-022",
+    "tipo": "Juego",
+    "titulo": "Air Conflicts: Secret Wars",
+    "plataforma": "PlayStation 3",
+    "marca": "Kalypso",
+    "linea": "PlayStation Move / 3D compatible",
+    "region": "NTSC (ESRB T)",
+    "formato": "Blu-ray",
+    "anio": "2011",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche con rayones, marcas y algo de suciedad en el plástico, más notorios en la zona superior (sello Only On PlayStation y logo Move). Portada completa. El disco no se aprecia en la foto."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$13,01 (loose) / $13,99 (CIB); nuevo $27,29",
+    "valor_internacional_clp": "$12.912 (loose) / $13.885 (CIB); nuevo $27.085",
+    "venta_chile_clp": "$10.000 – $16.000",
+    "stock": 1,
+    "notas": "Desarrollador: 3DIVISION. Editoras: bitComposer Games / Kalypso Media. Lanzamiento: 15 nov 2011. Compatible con PlayStation Move y 3D; sello Only On PlayStation. Sin ventas ni avisos chilenos del título. Referencia internacional PriceCharting (PS3): loose US$13,01 / CIB US$13,99 / nuevo US$27,29 (= $12.912 / $13.885 / $27.085 CLP, dólar $992,48). Venta sugerida en Chile: $10.000–$16.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/fb2b7afdb40c8683b508c0767c1a45bd66e95fa6f776fb0799efbbd4e1fb7932.jpg"
+    ]
+  },
+  {
+    "id": "VJ-023",
+    "tipo": "Juego",
+    "titulo": "inFAMOUS 2",
+    "plataforma": "PlayStation 3",
+    "marca": "Sony",
+    "region": "NTSC (ESRB T)",
+    "formato": "Blu-ray",
+    "anio": "2011",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche con rayones y marcas de uso en el plástico transparente, visibles sobre la portada. Arte completo y legible. El disco no se aprecia en la foto. No confundir con inFAMOUS Second Son (PS4, VJ-005 reservado)."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$9,99 (loose) / $10,60 (CIB); nuevo $19,48",
+    "valor_internacional_clp": "$9.915 (loose) / $10.520 (CIB); nuevo $19.334",
+    "venta_chile_clp": "$10.000 – $15.000",
+    "stock": 1,
+    "notas": "Desarrollador: Sucker Punch. Editora: Sony Computer Entertainment. Lanzamiento: 7 jun 2011. Sello Only On PlayStation. Sin ventas chilenas verificadas. Anuncios Chile: Yapo La Florida $10.000 (buen estado, en español); Yapo Puente Alto $20.000 (alto); también aparece en lotes de PS3 a $10.000. Un listado de Retrobusters a $4.544 se trata como outlier poco fiable frente al resto del mercado. Referencia internacional PriceCharting (PS3): loose US$9,99 / CIB US$10,60 / nuevo US$19,48 (= $9.915 / $10.520 / $19.334 CLP, dólar $992,48). Venta sugerida en Chile: $10.000–$15.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20b/1e13c8df5d39e138733f515c307fc81be4115d74039bed85452207603e57c4f3.jpg"
+    ]
   }
 ]
