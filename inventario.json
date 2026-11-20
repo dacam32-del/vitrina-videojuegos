@@ -28,6 +28,255 @@
     ]
   },
   {
+    "id": "VJ-006",
+    "tipo": "Juego",
+    "titulo": "Call of Duty: Black Ops Cold War",
+    "plataforma": "PlayStation 5",
+    "marca": "Activision",
+    "region": "NTSC-U (ESRB M)",
+    "formato": "Blu-ray Ultra HD",
+    "anio": "2020",
+    "empaque": "Estuche original (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche PS5 con rayones, marcas y algo de desgaste en la portada (zona superior cerca del logo y sobre el rostro). Esquinas con uso visible. El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$19,95 (loose) / $19,99 (CIB); nuevo $26,98",
+    "valor_internacional_clp": "$19.800 (loose) / $19.840 (CIB); nuevo $26.777",
+    "venta_chile_clp": "$25.000 – $35.000",
+    "stock": 1,
+    "notas": "Desarrollador: Treyarch. Editora: Activision. Lanzamiento: 13 nov 2020. Edición estándar NTSC-U, ESRB M (requiere internet). Sin ventas chilenas verificadas. Anuncios Chile: Game Over Chile $39.900 usado (alto de tienda); Yapo sellado $28.000 y usados PS5 ~$35.000. Referencia internacional PriceCharting (PS5): loose US$19,95 / CIB US$19,99 / nuevo US$26,98 (= $19.800 / $19.840 / $26.777 CLP, dólar $992,48). Venta sugerida en Chile: $25.000–$35.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/506fa44c976b749c820eecaa300936af5e18b89e27aa93c75bae7a25e13317c4.jpg"
+    ]
+  },
+  {
+    "id": "VJ-007",
+    "tipo": "Juego",
+    "titulo": "God of War: Ghost of Sparta",
+    "plataforma": "PSP",
+    "marca": "Sony",
+    "region": "NTSC-U (ESRB M)",
+    "formato": "UMD",
+    "anio": "2010",
+    "empaque": "Estuche original black label (UMD no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche UMD black label (Only On PlayStation, no es Greatest Hits) con rayones y marcas leves en el plástico, visibles sobre la figura de Kratos. Portada completa y legible. El UMD no se aprecia en la foto."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$48,96 (loose) / $62,49 (CIB); nuevo $119,00",
+    "valor_internacional_clp": "$48.592 (loose) / $62.020 (CIB); nuevo $118.105",
+    "venta_chile_clp": "$40.000 – $65.000",
+    "stock": 1,
+    "notas": "Desarrollador: Ready at Dawn / Santa Monica Studio. Editora: Sony. Lanzamiento: 1 nov 2010. Edición estándar NTSC-U black label (sello Only On PlayStation). Sin ventas chilenas verificadas. Anuncios Chile: V y T Computación (Calama) $22.000 (bajo; indica UMD + caja); Retrobusters $55.993. Referencia internacional PriceCharting (ventas): loose US$48,96 / CIB US$62,49 / nuevo US$119,00 (= $48.592 / $62.020 / $118.105 CLP, dólar $992,48). Venta sugerida en Chile: $40.000–$65.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/4e2c380b922888f69b4345d4edd79fff609bac50ee3544ce456684df41a3d7f7.jpg"
+    ]
+  },
+  {
+    "id": "VJ-008",
+    "tipo": "Juego",
+    "titulo": "Killzone: Liberation",
+    "plataforma": "PSP",
+    "marca": "Sony",
+    "linea": "Greatest Hits",
+    "region": "NTSC-U (ESRB T)",
+    "formato": "UMD",
+    "anio": "2006",
+    "empaque": "Estuche original Greatest Hits (UMD no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche UMD Greatest Hits con rayones y marcas de uso en el plástico, visibles sobre la portada (zona de los helicópteros). Portada completa. El UMD no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,96 (loose) / $9,04 (CIB); nuevo $15,00",
+    "valor_internacional_clp": "$6.908 (loose) / $8.972 (CIB); nuevo $14.887",
+    "venta_chile_clp": "$8.000 – $14.000",
+    "stock": 1,
+    "notas": "Desarrollador: Guerrilla Games. Editora: Sony. Lanzamiento original: 2006. Edición Greatest Hits NTSC-U, ESRB T. Sin aviso Chile usable (se descartó Hamelyn $104.130 como outlier de importación). Referencia internacional PriceCharting (PSP Greatest Hits): loose US$6,96 / CIB US$9,04 / nuevo US$15,00 (= $6.908 / $8.972 / $14.887 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$14.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/c8272955e49897e68f9f570d16fadfa4fafb67109cdbd5a363e418638db9cb78.jpg"
+    ]
+  },
+  {
+    "id": "VJ-009",
+    "tipo": "Juego",
+    "titulo": "SOCOM U.S. Navy SEALs: Fireteam Bravo",
+    "plataforma": "PSP",
+    "marca": "Sony",
+    "linea": "Greatest Hits",
+    "region": "NTSC-U (ESRB M)",
+    "formato": "UMD",
+    "anio": "2005",
+    "empaque": "Estuche original Greatest Hits (UMD no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche UMD Greatest Hits del primer Fireteam Bravo (no es la 2 ni la 3), con rayones y marcas de uso en el plástico. Portada completa y legible. El UMD no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$3,99 (loose) / $7,49 (CIB); nuevo $13,00",
+    "valor_internacional_clp": "$3.960 (loose) / $7.434 (CIB); nuevo $12.902",
+    "venta_chile_clp": "$6.000 – $10.000",
+    "stock": 1,
+    "notas": "Desarrollador: Zipper Interactive. Editora: Sony. Lanzamiento: 8 nov 2005. Edición Greatest Hits del primer Fireteam Bravo (confirmado en portada; no usar precios de Fireteam Bravo 3). Sin aviso Chile del título exacto. Referencia internacional PriceCharting (PSP Greatest Hits): loose US$3,99 / CIB US$7,49 / nuevo US$13,00 (= $3.960 / $7.434 / $12.902 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$10.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/2e96db41ad01b783e0895a387d2448c85e0be624bc6ea4440386db6eb97dd90d.jpg"
+    ]
+  },
+  {
+    "id": "VJ-010",
+    "tipo": "Juego",
+    "titulo": "The Lord of the Rings: The Return of the King",
+    "plataforma": "GameCube",
+    "marca": "Electronic Arts",
+    "linea": "Player's Choice",
+    "region": "NTSC-U (ESRB T)",
+    "formato": "Mini-DVD (GameCube)",
+    "anio": "2003",
+    "empaque": "Estuche original Player's Choice (disco no visible en la foto)",
+    "estado": {
+      "escala": "Regular",
+      "nota": 6,
+      "detalle": "Estuche Player's Choice con bastante desgaste: rayones y suciedad en el plástico, marcas sobre la portada y esquinas raspadas (sobre todo arriba). Arte completo y legible. El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$17,16 (loose) / $22,00 (CIB) — Player's Choice",
+    "valor_internacional_clp": "$17.031 (loose) / $21.835 (CIB)",
+    "venta_chile_clp": "$15.000 – $25.000",
+    "stock": 1,
+    "notas": "Desarrollador: EA Redwood Shores. Editora: Electronic Arts. Lanzamiento: 5 nov 2003. Edición Player's Choice confirmada en la franja dorada superior. Sin ficha individual en Chile. Referencia internacional PriceCharting (GameCube Player's Choice): loose US$17,16 / CIB US$22,00 (= $17.031 / $21.835 CLP, dólar $992,48). Black label casi igual (loose US$16,34 / CIB US$22,00). Venta sugerida en Chile: $15.000–$25.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/9e422e20126892c677506377997ad449d9e56244a2205e01716ccf0f5b343fe2.jpg"
+    ]
+  },
+  {
+    "id": "VJ-011",
+    "tipo": "Juego",
+    "titulo": "PES 2010 Pro Evolution Soccer",
+    "plataforma": "PSP",
+    "marca": "Konami",
+    "region": "NTSC (ESRB bilingüe EN/FR)",
+    "formato": "UMD",
+    "anio": "2009",
+    "empaque": "Estuche original (UMD no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche UMD con rayones, marcas y suciedad en el plástico, más notorios en la esquina inferior izquierda cerca del sello ESRB. Portada de Messi con la camiseta del Barcelona, completa. El UMD no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,39 (loose) / $8,76 (CIB); nuevo $9,99",
+    "valor_internacional_clp": "$6.342 (loose) / $8.694 (CIB); nuevo $9.915",
+    "venta_chile_clp": "$6.000 – $10.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Konami. Lanzamiento: 10 nov 2009. Portada Messi (FC Barcelona) y sello ESRB bilingüe inglés/francés (E / Enfants et Adultes). Yapo solo muestra PES 2010 de PS2, no PSP. Referencia internacional PriceCharting (PSP): loose US$6,39 / CIB US$8,76 / nuevo US$9,99 (= $6.342 / $8.694 / $9.915 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$10.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/6a4e3e2c857bfd5e44c841bc083020243011148606491e7e389b2123e97bb2d0.jpg"
+    ]
+  },
+  {
+    "id": "VJ-012",
+    "tipo": "Juego",
+    "titulo": "Dragon Ball Xenoverse 2",
+    "plataforma": "Xbox One",
+    "marca": "Bandai Namco",
+    "linea": "Edición de Lanzamiento (LatAm ES/PT)",
+    "region": "NTSC (ESRB T)",
+    "formato": "Blu-ray",
+    "anio": "2016",
+    "empaque": "Estuche original Edición de Lanzamiento (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 6,
+      "detalle": "Estuche Xbox One con rayones, huellas y desgaste en el plástico, más visibles en el borde izquierdo y sobre la portada. Franja superior «Edición de Lanzamiento / Edição de Lançamento». El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,81 (loose) / $11,00 (CIB); nuevo $13,53",
+    "valor_internacional_clp": "$6.759 (loose) / $10.917 (CIB); nuevo $13.428",
+    "venta_chile_clp": "$10.000 – $16.000",
+    "stock": 1,
+    "notas": "Desarrollador: Dimps. Editora: Bandai Namco. Lanzamiento: 25 oct 2016. Edición de Lanzamiento latinoamericana (textos en español y portugués) confirmada en la franja superior. Sin aviso Xbox One suelto en Chile. Yapo del mismo título en PS4: $8.000 y $15.000 (otra plataforma, solo contexto). Referencia internacional PriceCharting (Xbox One): loose US$6,81 / CIB US$11,00 / nuevo US$13,53 (= $6.759 / $10.917 / $13.428 CLP, dólar $992,48). Venta sugerida en Chile: $10.000–$16.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/a74b9918a74ecbd289a6ef96f23769a7631ac065abe3849cdfad4cd9d5e6d562.jpg"
+    ]
+  },
+  {
+    "id": "VJ-013",
+    "tipo": "Juego",
+    "titulo": "Assassin's Creed Unity",
+    "plataforma": "Xbox One",
+    "marca": "Ubisoft",
+    "linea": "Limited Edition (EN/FR/ES)",
+    "region": "NTSC (ESRB bilingüe EN/FR)",
+    "formato": "Blu-ray",
+    "anio": "2014",
+    "empaque": "Estuche original Limited Edition (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche Xbox One Limited Edition (franja «Limited Edition / L'Édition Limitée / Edición Limitada») en buen estado general, con algunas marcas leves y reflejos en el plástico. Portada completa. El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,26 (loose) / $7,17 (CIB); nuevo $12,00",
+    "valor_internacional_clp": "$6.213 (loose) / $7.116 (CIB); nuevo $11.910",
+    "venta_chile_clp": "$6.000 – $10.000",
+    "stock": 1,
+    "notas": "Desarrollador: Ubisoft Montreal. Editora: Ubisoft. Lanzamiento: 11 nov 2014. Limited Edition trilingüe EN/FR/ES confirmada en portada (sello ESRB también bilingüe). Sin avisos Chile. Referencia internacional PriceCharting (Xbox One Limited Edition): loose US$6,26 / CIB US$7,17 / nuevo US$12,00 (= $6.213 / $7.116 / $11.910 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$10.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/d18be59117487d93bdaeed718c00512e7ec26a4e49b0ed832627082ca17bb917.jpg"
+    ]
+  },
+  {
+    "id": "VJ-014",
+    "tipo": "Juego",
+    "titulo": "Just Cause 3",
+    "plataforma": "Xbox One",
+    "marca": "Square Enix",
+    "linea": "Day One Edition",
+    "region": "NTSC-U (ESRB M)",
+    "formato": "Blu-ray",
+    "anio": "2015",
+    "empaque": "Estuche original Day One Edition (disco no visible en la foto)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Estuche Xbox One Day One Edition en buen estado general, con algunas marcas leves y huellas en el plástico. Se lee el sello de descarga de Just Cause 2 (el código suele estar vencido; no se tasa como dos juegos). El disco no se aprecia en la foto."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$5,66 (loose) / $6,20 (CIB); nuevo $13,95",
+    "valor_internacional_clp": "$5.617 (loose) / $6.153 (CIB); nuevo $13.845",
+    "venta_chile_clp": "$5.000 – $9.000",
+    "stock": 1,
+    "notas": "Desarrollador: Avalanche Studios. Editora: Square Enix. Lanzamiento: 1 dic 2015. Day One Edition confirmada en la franja dorada; incluye descarga de Just Cause 2 (el código suele estar vencido; no tasar como dos juegos). Sin avisos Chile. Referencia internacional PriceCharting (Xbox One): loose US$5,66 / CIB US$6,20 / nuevo US$13,95 (= $5.617 / $6.153 / $13.845 CLP, dólar $992,48). En eBay, Day One usado se vendió ~US$4,50–$9,99. Venta sugerida en Chile: $5.000–$9.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20c/a82a64e47dcbfac8d72b1b6383cf3af105688c36a1e63a0c66cb2454879451d6.jpg"
+    ]
+  },
+  {
     "id": "VJ-015",
     "tipo": "Juego",
     "titulo": "Warlock",

@@ -11,7 +11,7 @@ Cada ficha puede incluir fotos (publicadas tal cual se suben, sin recortes ni re
 - Botón de consulta por WhatsApp (+56 9 5659 2453), también en cada ficha.
 - Música de fondo: "Video Dungeon Boss" de Kevin MacLeod (incompetech.com), licencia CC BY 4.0.
 
-**Totales:** 10 Fichas · 10 Unidades — $126.000 – $188.000 (CLP, venta Chile). Publicados: VJ-001 y VJ-015 a VJ-023 (VJ-002 a VJ-014 quedan reservados para un lote pendiente).
+**Totales:** 19 Fichas · 19 Unidades — $247.000 – $382.000 (CLP, venta Chile). Publicados: VJ-001 y VJ-006 a VJ-023 (VJ-002 a VJ-005 quedan reservados para un lote pendiente).
 
 ## 🛒 Vitrina web
 **[https://dacam32-del.github.io/vitrina-videojuegos/](https://dacam32-del.github.io/vitrina-videojuegos/)**
