@@ -1929,5 +1929,36 @@
       "/workspace/videojuegos-originales/lote-2026-11-21/27c5ed8116f842681da40c8bef600d2293a25a64ce500c6772afcf3cba960905.jpg",
       "/workspace/videojuegos-originales/lote-2026-11-21/5eab739adef3c69f91aa4f1dd0411fbc5a7f97733c1abe33eb9d6ce560ee7d9c.jpg"
     ]
+  },
+  {
+    "id": "VJ-070",
+    "tipo": "Juego",
+    "titulo": "Darksiders Genesis",
+    "plataforma": "Nintendo Switch",
+    "marca": "THQ Nordic",
+    "region": "PAL / Europa",
+    "formato": "Cartucho (Game Card)",
+    "anio": "2020",
+    "empaque": "Caja original y cartucho (completo; los juegos de Switch habitualmente no traen manual en papel)",
+    "serial": "LA-H-ATYHA-EUR",
+    "fabricacion": "Made in Japan (caja HAC-P-ATYHA)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Edición europea/PAL. Caja con desgaste leve en el plástico. Cartucho LA-H-ATYHA-EUR asentado en la bandeja, etiqueta limpia y legible (THQ Nordic, PEGI 12, USK «Frei ab 12 Jahre» 106303). En la bandeja no se ve manual en papel, como es habitual en Switch. Contraportada: textos en inglés, francés, italiano y español; Made in Japan; código de caja HAC-P-ATYHA (TSA HAC-ATYHA EUR); EAN 9 120080 074621; ©2020 Embracer Group AB, publicado por THQ Nordic, desarrollado por Airship Syndicate. Probado y funcionando (confirmado por el dueño)."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$11,95 (loose) / $17,97 (CIB); nuevo $21,46",
+    "valor_internacional_clp": "$11.860 (loose) / $17.835 (CIB); nuevo $21.299",
+    "venta_chile_clp": "$15.000 – $22.000",
+    "stock": 1,
+    "notas": "Editora: THQ Nordic. Desarrollador: Airship Syndicate. ©2020 Embracer Group AB. Edición europea/PAL confirmada: cartucho LA-H-ATYHA-EUR con etiqueta alemana USK «Frei ab 12 Jahre» 106303, caja HAC-P-ATYHA (TSA HAC-ATYHA EUR), PEGI 12, EAN 9 120080 074621, Made in Japan, textos en inglés, francés, italiano y español. Completo con caja original y cartucho. No se ve manual; los juegos de Switch normalmente no lo traen. Sin ventas chilenas verificadas ni avisos de esta edición (Switch, PAL). No se usan: avisos de «Darksiders 4 Genesis» en PS4 ni el precio de retail de Falabella a $289.990 (otra plataforma / no es venta verificada de este SKU). No se usa la Nephilim Edition PAL (otro SKU; CIB distinto) ni la ficha NTSC de PriceCharting. Referencia internacional PriceCharting (PAL Nintendo Switch): loose US$11,95 / CIB US$17,97 / nuevo US$21,46 (= $11.860 / $17.835 / $21.299 CLP, dólar $992,48). Probado y funcionando (confirmado por el dueño). Venta sugerida en Chile: $15.000–$22.000 (estimación a partir del CIB PAL, US$17,97 = $17.835; se considera el desgaste leve de la caja).",
+    "dolar": "$992,48",
+    "fecha": "2026-11-21",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-21/VJ-070_1_portada.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-21/VJ-070_2_cartucho.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-21/VJ-070_3_contraportada.jpg"
+    ]
   }
 ]
