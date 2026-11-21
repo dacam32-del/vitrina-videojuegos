@@ -639,5 +639,536 @@
     "fotos": [
       "/workspace/videojuegos-originales/lote-2026-11-20b/1e13c8df5d39e138733f515c307fc81be4115d74039bed85452207603e57c4f3.jpg"
     ]
+  },
+  {
+    "id": "VJ-024",
+    "tipo": "Juego",
+    "titulo": "Pro Evolution Soccer 2019",
+    "plataforma": "PlayStation 4",
+    "marca": "Konami",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2018",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo blanco completo y legible, con algunas marcas de uso en el plástico y en la zona del logo Konami."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$14,99 (loose) / $19,27 (CIB); nuevo $20,07",
+    "valor_internacional_clp": "$14.877 (loose) / $19.125 (CIB); nuevo $19.919",
+    "venta_chile_clp": "$8.000 – $15.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Konami. Lanzamiento: 28 ago 2018. Sin ventas chilenas verificadas ni avisos usados claros en Chile. Referencia internacional PriceCharting (PS4): loose US$14,99 / CIB US$19,27 / nuevo US$20,07 (= $14.877 / $19.125 / $19.919 CLP, dólar $992,48). En Chile los deportes usados suelen venderse algo por debajo de esa referencia; venta sugerida: $8.000–$15.000. Distinto de PES 2010 (VJ-011, PSP) y de eFootball PES 2020 (VJ-033).",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-024.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-025",
+    "tipo": "Juego",
+    "titulo": "Uncharted: The Nathan Drake Collection",
+    "plataforma": "PlayStation 4",
+    "marca": "Sony",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2015",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo granate/rojo completo y legible (The Nathan Drake Collection), con algo de desgaste en las letras."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$9,63 (loose) / $10,95 (CIB); nuevo $19,04",
+    "valor_internacional_clp": "$9.558 (loose) / $10.868 (CIB); nuevo $18.897",
+    "venta_chile_clp": "$8.000 – $14.000",
+    "stock": 1,
+    "notas": "Desarrollador: Bluepoint Games / Naughty Dog. Editora: Sony. Lanzamiento: 7 oct 2015. Compilación de Uncharted 1–3; no confundir con Uncharted 4 (VJ-004). Sin ventas chilenas verificadas. En Mercado Libre Chile aparece un listado de tienda a $26.936 (se interpreta como nuevo/retail, no como usado). Referencia internacional PriceCharting (PS4): loose US$9,63 / CIB US$10,95 / nuevo US$19,04 (= $9.558 / $10.868 / $18.897 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$14.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-025.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-026",
+    "tipo": "Juego",
+    "titulo": "Watch Dogs",
+    "plataforma": "PlayStation 4",
+    "marca": "Ubisoft",
+    "region": "NTSC-U (CUSA-00016)",
+    "formato": "Blu-ray",
+    "anio": "2014",
+    "serial": "CUSA-00016",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo; código CUSA-00016 legible. Las letras de «WATCH_DOGS» se ven algo desgastadas/raspadas."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,03 (loose) / $6,07 (CIB); nuevo $23,00",
+    "valor_internacional_clp": "$5.985 (loose) / $6.024 (CIB); nuevo $22.827",
+    "venta_chile_clp": "$5.000 – $10.000",
+    "stock": 1,
+    "notas": "Desarrollador: Ubisoft Montreal. Editora: Ubisoft. Lanzamiento: 27 may 2014. Es el primer Watch Dogs (CUSA-00016), no Watch Dogs 2. Sin ventas ni avisos chilenos verificados. Referencia internacional PriceCharting (PS4): loose US$6,03 / CIB US$6,07 / nuevo US$23,00 (= $5.985 / $6.024 / $22.827 CLP, dólar $992,48). Se aplica un piso local típico de PS4 usado. Venta sugerida en Chile: $5.000–$10.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-026.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-027",
+    "tipo": "Juego",
+    "titulo": "Assassin's Creed Origins",
+    "plataforma": "PlayStation 4",
+    "marca": "Ubisoft",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2017",
+    "serial": "21031123",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible, con logo Ubisoft y serial 21031123. El lomo se ve en buen estado aparente."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$6,75 (loose) / $9,99 (CIB); nuevo $16,70",
+    "valor_internacional_clp": "$6.699 (loose) / $9.915 (CIB); nuevo $16.574",
+    "venta_chile_clp": "$8.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador: Ubisoft Montreal. Editora: Ubisoft. Lanzamiento: 27 oct 2017. Edición estándar (no se lee Edition especial en el lomo). Distinto de Assassin's Creed Unity (VJ-013, Xbox One). Sin ventas chilenas verificadas. Anuncios Yapo: Quilicura $8.000 y Calera $12.000. Referencia internacional PriceCharting (PS4): loose US$6,75 / CIB US$9,99 / nuevo US$16,70 (= $6.699 / $9.915 / $16.574 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-027.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-028",
+    "tipo": "Juego",
+    "titulo": "Mafia III",
+    "plataforma": "PlayStation 4",
+    "marca": "2K",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2016",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo completo y legible, con logo 2K. El plástico se ve con uso leve."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$9,48 – $9,99 (loose) / $10,68 – $10,80 (CIB)",
+    "valor_internacional_clp": "$9.409 – $9.915 (loose) / $10.600 – $10.719 (CIB)",
+    "venta_chile_clp": "$8.000 – $16.000",
+    "stock": 1,
+    "notas": "Desarrollador: Hangar 13. Editora: 2K. Lanzamiento: 7 oct 2016. Edición estándar (no se lee Deluxe ni otra en el lomo). Sin ventas chilenas verificadas. Anuncio Yapo Peñalolén $16.000. Referencia internacional PriceCharting (PS4): loose ~US$9,48–$9,99 / CIB ~US$10,68–$10,80 (= $9.409–$9.915 / $10.600–$10.719 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$16.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-028.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-029",
+    "tipo": "Juego",
+    "titulo": "Tom Clancy's Ghost Recon Breakpoint",
+    "plataforma": "PlayStation 4",
+    "marca": "Ubisoft",
+    "linea": "Ultimate Edition Steelbook",
+    "region": "NTSC (sello PS4; textos EN/FR en el lomo)",
+    "formato": "Blu-ray",
+    "anio": "2019",
+    "serial": "21052550",
+    "empaque": "Steelbook Ultimate Edition (solo se ve el lomo; interior, extras y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible: se lee claramente «Ultimate Edition Steelbook / Édition Ultime Steelbook», logo Ubisoft y serial 21052550."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$24,00 (loose) / $25,96 (CIB); nuevo $52,28 — Ultimate Edition (incluye ventas de Steelbook)",
+    "valor_internacional_clp": "$23.820 (loose) / $25.765 (CIB); nuevo $51.887",
+    "venta_chile_clp": "$20.000 – $32.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Ubisoft. Lanzamiento: 4 oct 2019. El lomo confirma Ultimate Edition Steelbook (bilingüe EN/FR); se tasa como tal. Sin ventas chilenas verificadas. Anuncio Mercado Libre Chile usado $45.000 (alto de tienda). Referencia internacional PriceCharting Ultimate Edition (PS4): loose US$24,00 / CIB US$25,96 / nuevo US$52,28 (= $23.820 / $25.765 / $51.887 CLP, dólar $992,48). En eBay, ejemplares usados descritos como Ultimate Edition Steelbook se vendieron ~US$15,50–$34,99. La edición estándar vale bastante menos (loose/CIB ~US$9–$10) y no se usa como base. Venta sugerida en Chile: $20.000–$32.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-029.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-030",
+    "tipo": "Juego",
+    "titulo": "Rocket League",
+    "plataforma": "PlayStation 4",
+    "marca": "Psyonix",
+    "linea": "Collector's Edition",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2016",
+    "serial": "2101742",
+    "empaque": "Collector's Edition (solo se ve el lomo; contenido extra y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible: se lee «Collector's Edition» y el serial 2101742."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$10,96 (loose) / $12,50 (CIB); nuevo $49,99 — Collector's Edition",
+    "valor_internacional_clp": "$10.878 (loose) / $12.406 (CIB); nuevo $49.614",
+    "venta_chile_clp": "$10.000 – $16.000",
+    "stock": 1,
+    "notas": "Desarrollador: Psyonix. Lanzamiento del juego: 7 jul 2015 (esta Collector's Edition es posterior; el lomo lo confirma). Se tasa como Collector's Edition, no como el estándar. Sin ventas ni avisos chilenos verificados. Referencia internacional PriceCharting (PS4 Collector's Edition): loose US$10,96 / CIB US$12,50 / nuevo US$49,99 (= $10.878 / $12.406 / $49.614 CLP, dólar $992,48). Venta sugerida en Chile: $10.000–$16.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-030.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-031",
+    "tipo": "Juego",
+    "titulo": "Just Dance 2016",
+    "plataforma": "PlayStation 4",
+    "marca": "Ubisoft",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2015",
+    "serial": "21005586",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo blanco completo y legible, logo Ubisoft y serial 21005586. El lomo se ve relativamente limpio."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$9,71 (loose) / $9,99 (CIB); nuevo $13,40",
+    "valor_internacional_clp": "$9.637 (loose) / $9.915 (CIB); nuevo $13.299",
+    "venta_chile_clp": "$7.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Ubisoft. Lanzamiento: 20 oct 2015. Sin ventas chilenas verificadas. Anuncio Yapo $9.000. Referencia internacional PriceCharting (PS4): loose US$9,71 / CIB US$9,99 / nuevo US$13,40 (= $9.637 / $9.915 / $13.299 CLP, dólar $992,48). Venta sugerida en Chile: $7.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-031.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-032",
+    "tipo": "Juego",
+    "titulo": "Marvel's Spider-Man: Miles Morales",
+    "plataforma": "PlayStation 4",
+    "marca": "Sony",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2020",
+    "serial": "3005331",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible (Marvel Spider-Man Miles Morales) con serial 3005331. Algunas marcas de uso en el plástico. No se lee Launch Edition ni Ultimate en el lomo."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$14,99 (loose) / $15,28 (CIB); nuevo $24,47",
+    "valor_internacional_clp": "$14.877 (loose) / $15.165 (CIB); nuevo $24.286",
+    "venta_chile_clp": "$12.000 – $20.000",
+    "stock": 1,
+    "notas": "Desarrollador: Insomniac Games. Editora: Sony. Lanzamiento: 12 nov 2020. El lomo no indica Launch ni Ultimate; se tasa como edición estándar. Sin ventas chilenas verificadas. Anuncio Yapo Las Condes $20.000. Referencia internacional PriceCharting (PS4): loose US$14,99 / CIB US$15,28 / nuevo US$24,47 (= $14.877 / $15.165 / $24.286 CLP, dólar $992,48). Venta sugerida en Chile: $12.000–$20.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-032.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-033",
+    "tipo": "Juego",
+    "titulo": "eFootball PES 2020",
+    "plataforma": "PlayStation 4",
+    "marca": "Konami",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2019",
+    "serial": "2105340",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible («eFootball PES2020»), serial 2105340, con algunas marcas de uso."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$30,37 (loose) / $32,07 (CIB); nuevo $49,50 — bajo volumen; se trata como outlier frente al mercado chileno",
+    "valor_internacional_clp": "$30.142 (loose) / $31.829 (CIB); nuevo $49.128",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Konami. Lanzamiento: 10 sep 2019. Distinto de PES 2010 (VJ-011) y PES 2019 (VJ-024). Sin ventas chilenas verificadas. Anuncios Yapo: $8.000 (Coquimbo) y $9.990. Referencia internacional PriceCharting (PS4): loose US$30,37 / CIB US$32,07 / nuevo US$49,50 (= $30.142 / $31.829 / $49.128 CLP, dólar $992,48), pero con volumen muy bajo (p. ej. 2 ventas/año en loose) y muy por encima de los avisos locales; se trata como outlier y no como base de la tasación en Chile. Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-033.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-034",
+    "tipo": "Juego",
+    "titulo": "Death Stranding",
+    "plataforma": "PlayStation 4",
+    "marca": "Sony",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2019",
+    "serial": "3005693",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible, serial 3005693. No es la Director's Cut (esa es de PS5). El lomo se ve relativamente limpio."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$8,50 (loose) / $9,99 (CIB); nuevo $16,77",
+    "valor_internacional_clp": "$8.436 (loose) / $9.915 (CIB); nuevo $16.644",
+    "venta_chile_clp": "$12.000 – $20.000",
+    "stock": 1,
+    "notas": "Desarrollador: Kojima Productions. Editora: Sony. Lanzamiento: 8 nov 2019. Edición estándar de PS4 (no Director's Cut). Sin ventas chilenas verificadas. Anuncios Yapo: Providencia $16.000 y La Cisterna $20.000. Referencia internacional PriceCharting (PS4): loose US$8,50 / CIB US$9,99 / nuevo US$16,77 (= $8.436 / $9.915 / $16.644 CLP, dólar $992,48). En Chile los avisos están por encima de esa referencia. Venta sugerida en Chile: $12.000–$20.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-034.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-035",
+    "tipo": "Juego",
+    "titulo": "FIFA 20",
+    "plataforma": "PlayStation 4",
+    "marca": "EA Sports",
+    "region": "NTSC-U (CUSA-15545)",
+    "formato": "Blu-ray",
+    "anio": "2019",
+    "serial": "CUSA-15545",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo blanco completo y legible, código CUSA-15545. El lomo se ve relativamente limpio."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$8,07 (loose) / $8,34 (CIB); nuevo $11,66",
+    "valor_internacional_clp": "$8.009 (loose) / $8.277 (CIB); nuevo $11.572",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: EA Sports. Lanzamiento: 27 sep 2019. Edición estándar (CUSA-15545). Sin ventas chilenas verificadas. Un aviso Yapo Maipú a $30.000 aparece junto con Black Ops III y WWII y se interpreta como lote, no como precio individual; no se usa de base. Referencia internacional PriceCharting (PS4): loose US$8,07 / CIB US$8,34 / nuevo US$11,66 (= $8.009 / $8.277 / $11.572 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-035.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-036",
+    "tipo": "Juego",
+    "titulo": "Call of Duty: Black Ops III",
+    "plataforma": "PlayStation 4",
+    "marca": "Activision",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2015",
+    "serial": "3001294",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible (Black Ops III), serial 3001294, con algo de desgaste. Distinto de Black Ops Cold War (VJ-006, PS5)."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$10,00 (loose) / $11,00 (CIB); nuevo $25,97",
+    "valor_internacional_clp": "$9.925 (loose) / $10.917 (CIB); nuevo $25.775",
+    "venta_chile_clp": "$8.000 – $15.000",
+    "stock": 1,
+    "notas": "Desarrollador: Treyarch. Editora: Activision. Lanzamiento: 6 nov 2015. Edición estándar. No confundir con Call of Duty: Black Ops Cold War de PS5 (VJ-006). Sin ventas chilenas verificadas. Referencia internacional PriceCharting (PS4): loose US$10,00 / CIB US$11,00 / nuevo US$25,97 (= $9.925 / $10.917 / $25.775 CLP, dólar $992,48). Venta sugerida en Chile: $8.000–$15.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-036.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-037",
+    "tipo": "Juego",
+    "titulo": "Tom Clancy's Rainbow Six Siege",
+    "plataforma": "PlayStation 4",
+    "marca": "Ubisoft",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2015",
+    "serial": "21004374",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo claro/gris completo y legible, logo Ubisoft y serial 21004374. El lomo se ve sucio y con desgaste evidente."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$4,79 (loose) / $6,68 (CIB); nuevo $11,77",
+    "valor_internacional_clp": "$4.754 (loose) / $6.630 (CIB); nuevo $11.681",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador: Ubisoft Montreal. Editora: Ubisoft. Lanzamiento: 1 dic 2015. Edición estándar (no se lee Gold ni Ultimate en el lomo). Sin ventas chilenas verificadas. Anuncio Yapo Antofagasta $10.000. Referencia internacional PriceCharting (PS4): loose US$4,79 / CIB US$6,68 / nuevo US$11,77 (= $4.754 / $6.630 / $11.681 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-037.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-038",
+    "tipo": "Juego",
+    "titulo": "NARUTO SHIPPUDEN: Ultimate Ninja Storm 4 Road to Boruto",
+    "plataforma": "PlayStation 4",
+    "marca": "Bandai Namco",
+    "linea": "Road to Boruto",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2017",
+    "serial": "21022457",
+    "empaque": "Estuche original Road to Boruto (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo blanco completo y legible, con el subtítulo «Road to Boruto» y serial 21022457. El lomo se ve relativamente limpio."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$7,48 (loose) / $7,56 (CIB); nuevo $12,87",
+    "valor_internacional_clp": "$7.424 (loose) / $7.503 (CIB); nuevo $12.773",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador: CyberConnect2. Editora: Bandai Namco. La versión Road to Boruto (2017) incluye el juego base más la expansión; el lomo lo confirma y se tasa como tal, no como el Storm 4 original de 2016. Sin ventas ni avisos chilenos verificados. Referencia internacional PriceCharting (PS4 Road to Boruto): loose US$7,48 / CIB US$7,56 / nuevo US$12,87 (= $7.424 / $7.503 / $12.773 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-038.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-039",
+    "tipo": "Juego",
+    "titulo": "Grand Theft Auto V",
+    "plataforma": "PlayStation 4",
+    "marca": "Rockstar",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2014",
+    "serial": "21004970",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo negro completo y legible, logo Rockstar y serial 21004970. El lomo se ve con uso leve."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$10,30 (loose) / $12,06 (CIB); nuevo $21,00",
+    "valor_internacional_clp": "$10.223 (loose) / $11.969 (CIB); nuevo $20.842",
+    "venta_chile_clp": "$10.000 – $16.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Rockstar. Lanzamiento en PS4: 18 nov 2014. Edición estándar (no se lee Premium ni otra en el lomo). Sin ventas chilenas verificadas. Referencia internacional PriceCharting (PS4): loose US$10,30 / CIB US$12,06 / nuevo US$21,00 (= $10.223 / $11.969 / $20.842 CLP, dólar $992,48). Venta sugerida en Chile: $10.000–$16.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-039.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-040",
+    "tipo": "Juego",
+    "titulo": "Overwatch",
+    "plataforma": "PlayStation 4",
+    "marca": "Blizzard",
+    "linea": "Origins Edition",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2016",
+    "empaque": "Origins Edition (solo se ve el lomo; portada, extras y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo blanco/crema completo: se lee «OVERWATCH ORIGINS EDITION» (letras menores confirmadas). El lomo se ve sucio y con desgaste. Logo de Blizzard visible a la derecha."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$5,10 (loose) / $6,00 (CIB); nuevo $17,49 — Origins Edition",
+    "valor_internacional_clp": "$5.062 (loose) / $5.955 (CIB); nuevo $17.358",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Blizzard. Lanzamiento: 24 may 2016. Origins Edition confirmada en el lomo; se tasa como tal (no como Game of the Year). Sin ventas chilenas verificadas. Anuncio Yapo Valdivia $15.000 (algo alto frente al resto de la referencia). Referencia internacional PriceCharting (PS4 Origins Edition): loose US$5,10 / CIB US$6,00 / nuevo US$17,49 (= $5.062 / $5.955 / $17.358 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-040.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-041",
+    "tipo": "Juego",
+    "titulo": "Mighty No. 9",
+    "plataforma": "PlayStation 4",
+    "marca": "Deep Silver",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2016",
+    "empaque": "Estuche original (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Identificado por el logo colorido de Mighty No. 9 y el sello Deep Silver a la derecha (no es otro título de esa editora). Lomo blanco completo, con suciedad y uso visible."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$7,01 (loose) / $8,39 (CIB)",
+    "valor_internacional_clp": "$6.957 (loose) / $8.327 (CIB)",
+    "venta_chile_clp": "$6.000 – $12.000",
+    "stock": 1,
+    "notas": "Desarrollador: Comcept / Inti Creates. Editora: Deep Silver. Lanzamiento: 21 jun 2016. Identificación visual del lomo: logotipo de Mighty No. 9 y Deep Silver (confirmado; no es otro juego de esa editora). Sin ventas ni avisos chilenos verificados. Referencia internacional PriceCharting (PS4): loose US$7,01 / CIB US$8,39 (= $6.957 / $8.327 CLP, dólar $992,48). Venta sugerida en Chile: $6.000–$12.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-041.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
+  },
+  {
+    "id": "VJ-042",
+    "tipo": "Juego",
+    "titulo": "Horizon Zero Dawn",
+    "plataforma": "PlayStation 4",
+    "marca": "Sony",
+    "linea": "PlayStation Hits",
+    "region": "NTSC (sello PS4)",
+    "formato": "Blu-ray",
+    "anio": "2017",
+    "empaque": "Estuche PlayStation Hits (solo se ve el lomo; portada y disco no visibles)",
+    "estado": {
+      "escala": "No verificado (solo lomo)",
+      "detalle": "Solo se ve el lomo en una foto de pila de 19 juegos; el disco y la carátula frontal no son visibles. Lomo rojo característico de PlayStation Hits, completo y legible («Horizon Zero Dawn» con el motivo de triángulos). No se lee «Complete Edition» ni otro subtítulo en el lomo."
+    },
+    "rareza": "Común",
+    "valor_internacional_usd": "$8,25 (loose) / $8,50 (CIB); nuevo $17,99 — edición estándar; Complete Edition Hits US$10,36 / $11,49 (no confirmada en el lomo)",
+    "valor_internacional_clp": "$8.188 (loose) / $8.436 (CIB); nuevo $17.855",
+    "venta_chile_clp": "$8.000 – $15.000",
+    "stock": 1,
+    "notas": "Desarrollador: Guerrilla Games. Editora: Sony. Lanzamiento original: 28 feb 2017 (la reimpresión PlayStation Hits es posterior). El lomo rojo es el de PlayStation Hits; no aparece el texto «Complete Edition», así que no se tasa como Complete. Sin ventas chilenas verificadas. Anuncios Yapo: Antofagasta $10.000 y Vitacura $15.000. Referencia internacional PriceCharting: edición estándar PS4 loose US$8,25 / CIB US$8,50 / nuevo US$17,99 (= $8.188 / $8.436 / $17.855 CLP); la variante Complete Edition PlayStation Hits cotiza loose US$10,36 / CIB US$11,49, pero no se usa como base porque el lomo no la confirma. Dólar $992,48. Venta sugerida en Chile: $8.000–$15.000.",
+    "dolar": "$992,48",
+    "fecha": "2026-11-20",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-20e/recortes/VJ-042.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-20e/308f010aa6c2cb01557a95ea0e47f5f209aa7b95c3f5f8a3596899dad2b4890c.jpg"
+    ]
   }
 ]
