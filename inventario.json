@@ -1898,5 +1898,36 @@
     "fotos": [
       "/workspace/videojuegos-originales/lote-2026-11-20h/05_8d544a95.jpg"
     ]
+  },
+  {
+    "id": "VJ-069",
+    "tipo": "Juego",
+    "titulo": "Dragon Quest Builders",
+    "plataforma": "Nintendo Switch",
+    "marca": "Square Enix",
+    "region": "NTSC-U / América (USA)",
+    "formato": "Cartucho (Game Card)",
+    "anio": "2018",
+    "empaque": "Caja original y cartucho (completo; los juegos de Switch habitualmente no traen manual en papel)",
+    "serial": "LA-H-ACXPB-USA",
+    "fabricacion": "Made in Japan (caja HAC P ACXPB USZ)",
+    "estado": {
+      "escala": "Bueno",
+      "nota": 7,
+      "detalle": "Edición de EE. UU./América. Caja con pequeños rasguños y desgaste leve en el plástico. Cartucho LA-H-ACXPB-USA asentado en la bandeja, etiqueta limpia y legible (Square Enix, ESRB E10+). En la bandeja no se ve manual en papel, como es habitual en Switch. Contraportada: textos en inglés, francés y español; Made in Japan; código de caja HAC P ACXPB USZ; UPC 0 45496 59189 2. Probado y funcionando (confirmado por el dueño)."
+    },
+    "rareza": "Poco común",
+    "valor_internacional_usd": "$43,95 (loose) / $47,65 (CIB); nuevo $97,50",
+    "valor_internacional_clp": "$43.619 (loose) / $47.292 (CIB); nuevo $96.767",
+    "venta_chile_clp": "$40.000 – $50.000",
+    "stock": 1,
+    "notas": "Desarrollador y editora: Square Enix (Armor Project / Bird Studio). Director general: Yuji Horii. Diseño de personajes: Akira Toriyama. Lanzamiento: 9 feb 2018. Edición USA/América confirmada: cartucho LA-H-ACXPB-USA, caja HAC P ACXPB USZ, UPC 0 45496 59189 2, ESRB E10+ (Everyone 10+ / Enfants et Adultes 10+), textos en inglés, francés y español. Completo con caja original y cartucho. No se ve manual; los juegos de Switch normalmente no lo traen. Sin ventas chilenas verificadas ni avisos de esta edición (Switch, NTSC-U). No se usan: avisos Yapo de Dragon Quest Builders 2 Switch ($18.000 Valparaíso, $35.000 Providencia, $39.000 Cerro Navia), el aviso de Dragon Quest Builders PS4 en La Serena a $10.000 (otra plataforma) ni el anuncio de Mercado Libre Chile a $64.990 de un import japonés (otro SKU, no es venta verificada). Referencia internacional PriceCharting (Nintendo Switch, NTSC): loose US$43,95 / CIB US$47,65 / nuevo US$97,50 (= $43.619 / $47.292 / $96.767 CLP, dólar $992,48). Probado y funcionando (confirmado por el dueño). Venta sugerida en Chile: $40.000–$50.000 (estimación a partir del CIB internacional, US$47,65 = $47.292; se considera el desgaste leve de la caja).",
+    "dolar": "$992,48",
+    "fecha": "2026-11-21",
+    "fotos": [
+      "/workspace/videojuegos-originales/lote-2026-11-21/37f0d8cb6e414b47d1241c08e8fc2a16afc56cf9062ab4d3c4f3972577b8eb4b.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-21/27c5ed8116f842681da40c8bef600d2293a25a64ce500c6772afcf3cba960905.jpg",
+      "/workspace/videojuegos-originales/lote-2026-11-21/5eab739adef3c69f91aa4f1dd0411fbc5a7f97733c1abe33eb9d6ce560ee7d9c.jpg"
+    ]
   }
 ]
